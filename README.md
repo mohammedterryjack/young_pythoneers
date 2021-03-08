@@ -77,10 +77,10 @@
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg)
 ![](https://www.kinvert.com/wp-content/uploads/2018/10/anki-vector-sdk-example-text-on-face-screen-PIL-ImageDraw.jpg)
 ![](https://www.personalrobots.biz/wp-content/uploads/2019/10/anki-vector-sdk-python-doom-ips-display-color.jpeg)
-* Using Vector's Camera
+* Using Vector's Voice Commands and Camera
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/tech-inside-anki-vector-hd-camera-1024x576.jpg)
 ![](https://www.hexnub.com/wp-content/uploads/2018/12/61sTgRcshVL._SL1000_-300x300.jpg)
-* Using Vector's IR laser and other sensors
+* Using Vector's IR laser and Ground sensors
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg)
 ![](https://preview.redd.it/24o1lhdacj721.png?width=3840&format=png&auto=webp&s=e052a8339d5c23647b7404ec068a3aeb3dc387ae)
-* TODO: Other projects
+* TODO: Other Sensors
