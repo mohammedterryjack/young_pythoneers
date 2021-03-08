@@ -1,18 +1,20 @@
-# Young Pythoneers
 <img src="https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop" width="500">
 
+# Young Pythoneers
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
 
 ---
 ## Contact
+<img src="https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg" width="100">
+
+
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
 
 `(Professional AI Developer | PhD at University of York)`
 - email: mohammedterryjack@gmail.com
 - blog: https://medium.com/@b.terryjack
 ##### Admission subject to an initial screening interview
-![](https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg)
 
 ---
 ## Requirements 
