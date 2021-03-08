@@ -95,7 +95,6 @@
 
 * Using Vector's IR laser and Ground sensors
 <img src="https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg" width="300">
-
 <img src="https://preview.redd.it/24o1lhdacj721.png?width=3840&format=png&auto=webp&s=e052a8339d5c23647b7404ec068a3aeb3dc387ae" width="300">
 
 * TODO: Other Sensors
