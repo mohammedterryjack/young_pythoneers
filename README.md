@@ -1,7 +1,8 @@
 # Young Pythoneers
+<img src="https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop" width="500">
+
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
-<img src="https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop" width="500">
 
 ---
 ## Contact
