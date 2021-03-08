@@ -38,7 +38,7 @@
 ### Phase 1: Virtual Robotics with Turtle
 <img src="turtles_screenshot.png" width="300">
 
-* Lesson 1: Turtle Art
+* [Lesson 1: Turtle Art](phase_1_turtles/lesson_1/README.md)
 * Lesson 2: Adding Keyboard controls to the Turtle
 * Lesson 3: Adding a shootable cannon to the Turtle
 * Lesson 4: Adding a second turtle and destructability
