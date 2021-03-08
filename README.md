@@ -32,7 +32,7 @@
 ---
 
 ### Phase 1: Virtual Robotics with Turtle
-![](turtles_screenshot.png){:height="50%" width="50%"}
+<img src="turtles_screenshot.png" width="48">
 * Turtle Art
 * Controlling a Turtle with the keyboard
 * Adding a cannon to a turtle
