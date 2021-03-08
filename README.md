@@ -1,7 +1,7 @@
 # Young Pythoneers
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
-![](https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop)
+<img src="https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop" width="150">
 ---
 ## Contact
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
@@ -32,7 +32,7 @@
 ---
 
 ### Phase 1: Virtual Robotics with Turtle
-<img src="turtles_screenshot.png" width="48">
+<img src="turtles_screenshot.png" width="150">
 * Turtle Art
 * Controlling a Turtle with the keyboard
 * Adding a cannon to a turtle
