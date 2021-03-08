@@ -47,7 +47,8 @@
 ---
 
 ### Phase 2: Building a pokemon-style game in Pygame
-![](https://www.brian-gordon.name/portfolio/images/pokemon4-full.png)
+<img src="https://www.brian-gordon.name/portfolio/images/pokemon4-full.png" width="300">
+
 * Sprites
 * Keyboard control
 * Music
@@ -58,7 +59,8 @@
 ---
 
 ### Phase 3: Various projects with Microbit 
-![](https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg)
+<img src="https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg" width="300">
+
 * A Mini tank game using the LED display
 * ...adding tilt controls
 * ..adding sound effects
@@ -74,17 +76,26 @@
 ### Phase 4: Various projects with an actual robot called Vector
 * Introduction to ["Vector"](https://developer.anki.com/)
 * [Python's SDK](https://developer.anki.com/vector/docs/index.html) to "rewire" Vector's brains
-![](https://ksr-ugc.imgix.net/assets/028/105/054/c5bf73bf362cba774283b9db214a641e_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581785596&auto=format&frame=1&q=92&s=42fe193d731e80d28085f363b0d49726)
+<img src="https://ksr-ugc.imgix.net/assets/028/105/054/c5bf73bf362cba774283b9db214a641e_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581785596&auto=format&frame=1&q=92&s=42fe193d731e80d28085f363b0d49726" width="300">
+
 * Using Vector's Legs to move and Arms to move other things
-![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
+<img src="https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720" width="300">
+
 * Using Vector's Display
-![](https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg)
-![](https://www.kinvert.com/wp-content/uploads/2018/10/anki-vector-sdk-example-text-on-face-screen-PIL-ImageDraw.jpg)
-![](https://www.personalrobots.biz/wp-content/uploads/2019/10/anki-vector-sdk-python-doom-ips-display-color.jpeg)
+<img src="https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg" width="300">
+
+<img src="https://www.kinvert.com/wp-content/uploads/2018/10/anki-vector-sdk-example-text-on-face-screen-PIL-ImageDraw.jpg" width="300">
+
+<img src="https://www.personalrobots.biz/wp-content/uploads/2019/10/anki-vector-sdk-python-doom-ips-display-color.jpeg" width="300">
+
 * Using Vector's Voice Commands and Camera
-![](https://www.kinvert.com/wp-content/uploads/2018/08/tech-inside-anki-vector-hd-camera-1024x576.jpg)
-![](https://www.hexnub.com/wp-content/uploads/2018/12/61sTgRcshVL._SL1000_-300x300.jpg)
+<img src="https://www.kinvert.com/wp-content/uploads/2018/08/tech-inside-anki-vector-hd-camera-1024x576.jpg" width="300">
+
+<img src="https://www.hexnub.com/wp-content/uploads/2018/12/61sTgRcshVL._SL1000_-300x300.jpg" width="300">
+
 * Using Vector's IR laser and Ground sensors
-![](https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg)
-![](https://preview.redd.it/24o1lhdacj721.png?width=3840&format=png&auto=webp&s=e052a8339d5c23647b7404ec068a3aeb3dc387ae)
+<img src="https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg" width="300">
+
+<img src="https://preview.redd.it/24o1lhdacj721.png?width=3840&format=png&auto=webp&s=e052a8339d5c23647b7404ec068a3aeb3dc387ae" width="300">
+
 * TODO: Other Sensors
