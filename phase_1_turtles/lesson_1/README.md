@@ -14,12 +14,12 @@
 * iterating (e.g. `for` and `while`) 
 ---
 ### Project-related Deliverables
-* display hello world
-* display the turtle world
-* customise the background colour
-* move the turtle to draw shapes
-* use iteration to draw complex patterns
-* add stochasticity into patterns
+* target 1: display hello world
+* target 2: display the turtle world
+* target 3: customise the background colour
+* target 4: move the turtle to draw shapes
+* target 5: use iteration to draw complex patterns
+* target 6 (bonus): add stochasticity into patterns
 ---
 ### Example Screenshots
 ![](https://blog.udacity.com/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg)

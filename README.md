@@ -44,7 +44,7 @@
 * Lesson 4: Adding a second turtle and destructability
 * Lesson 5: Adding Indestructable, uncrossable Walls and making mazes
 * Lesson 6: Loadable Mazes & Playing the 2 Player Tank Game
-* Lesson 7: Adding AI to the Enemy Tank
+* Lesson 7 (bonus): Adding AI to the Enemy Tank
 
 ---
 
