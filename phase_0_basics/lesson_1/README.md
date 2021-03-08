@@ -1,5 +1,5 @@
 # (optional) Phase 0: Communicating with my Computer
-## Lesson 1: The Basics
+## Lesson 1: Write and Say Hello World
 ---
 ### Theoretical Coding Principals (`Python-related Syntax`)
 #### Practising Prior Knowledge:
@@ -15,7 +15,7 @@
 ---
 ### Practical Project-related Deliverables
 * target 1: display a message
-* target 2: make the computer read the message aloud
+* target 2: make the computer read your message aloud
 ---
 ### Example Screenshots
 ![](keyboard.png)

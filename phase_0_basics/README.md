@@ -1,4 +1,4 @@
-# (optional) Phase 0: Basics
+# (optional) Phase 0: Communicating with my Computer
 
 <img src="https://www.keybr.com/cover.png" width="300">
 
@@ -13,4 +13,4 @@
 * A Computer/Laptop (with access to the internet)
 --- 
 ## Lessons
-* [Lesson 1: Communicating with my computer](lesson_1/README.md)
+* [Lesson 1: Write and Say Hello World](lesson_1/README.md)
