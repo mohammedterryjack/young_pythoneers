@@ -19,5 +19,11 @@
 * customise the background colour
 * move the turtle to draw shapes
 * use iteration to draw complex patterns
+* add stochasticity into patterns
 ---
 ### Example Screenshots
+![](https://blog.udacity.com/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg)
+![](turtle_world.png)
+![](turtle_shapes.png)
+![](turtle_art.png)
+![](turtle_stochastic.png)

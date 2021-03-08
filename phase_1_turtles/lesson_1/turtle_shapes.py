@@ -7,10 +7,11 @@ robot = Turtle()
 robot.shape("turtle")
 robot.color("magenta","yellow")
 
-for _ in range(30):
-    robot.right(10)
-    robot.forward(30)
-    robot.left(80)
-    robot.backward(20)
+robot.right(30)
+robot.forward(100)
+robot.left(80)
+robot.backward(200)
+
+robot.circle(60)
 
 turtle_world.exitonclick()
