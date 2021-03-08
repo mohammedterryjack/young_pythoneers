@@ -38,13 +38,13 @@
 ### Phase 1: Virtual Robotics with Turtle
 <img src="turtles_screenshot.png" width="300">
 
-* Turtle Art
-* Controlling a Turtle with the keyboard
-* Adding a cannon to a turtle
-* Adding a second tank for target practise
-* Adding Indestructable, uncrossable Walls
-* x2 Player Tanks Game
-* (bonus) Adding Autopilot & Randomised Maps
+* Lesson 1: Turtle Art
+* Lesson 2: Adding Keyboard controls to the Turtle
+* Lesson 3: Adding a shootable cannon to the Turtle
+* Lesson 4: Adding a second turtle and destructability
+* Lesson 5: Adding Indestructable, uncrossable Walls and making mazes
+* Lesson 6: Loadable Mazes & Playing the 2 Player Tank Game
+* Lesson 7: Adding AI to the Enemy Tank
 
 ---
 
