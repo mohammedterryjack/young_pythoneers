@@ -16,6 +16,7 @@
 
 ---
 ## Curriculum
+* (optional) [Phase 0: Communicating with my Computer](phase_0_basics/README.md)
 * [Phase 1: Virtual Robotics with Turtle](phase_1_turtles/README.md)
 * [Phase 2: Building a pokemon-style game in Pygame](phase_2_pygame/README.md)
 * [Phase 3: Various projects with Microbit](phase_3_microbit/README.md)
