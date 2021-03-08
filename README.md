@@ -1,6 +1,7 @@
 # Young Pythoneers
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
+![](https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg)
 ---
 ## Contact
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
@@ -8,7 +9,6 @@
 `(Professional AI Developer | PhD at University of York)`
 - email: mohammedterryjack@gmail.com
 - blog: https://medium.com/@b.terryjack
-![](https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg)
 ##### Admission subject to an initial screening interview
 
 ---
