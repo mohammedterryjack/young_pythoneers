@@ -31,12 +31,33 @@
 
 ### Phase 1: Virtual Robotics with Turtle
 ![](turtles_screenshot.png)
+* Turtle Art
+* Controlling a Turtle with the keyboard
+* Adding a cannon to a turtle
+* Adding a second tank for target practise
+* Adding Indestructable, uncrossable Walls
+* x2 Player Tanks Game
+* (bonus) Adding Autopilot & Randomised Maps
 ### Phase 2: Building a pokemon-style game in Pygame
 ![](https://www.brian-gordon.name/portfolio/images/pokemon4-full.png)
+* Sprites
+* Keyboard control
+* Music
+* Scenery
+* Interacting with scenery and characters
+* (bonus) AI characters and talking behaviours
+
 ### Phase 3: Various projects with Microbit 
 ![](https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg)
-* Text to Speech (make Microbit read your sentences out loud)
-* TODO...
+* Using leds to make a Mini tank game 
+* ...adding tilt controls
+* ..adding sound effects
+* ..using bluetooth for two player play
+* Speech to text using the microphone
+* Text to Speech using the speaker
+* A Simple Chatbot
+* Snake
+* TODO: Other sensors
 
 ### Phase 4: Various projects with an actual robot called Vector
 ![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
