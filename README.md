@@ -49,14 +49,14 @@
 
 ### Phase 3: Various projects with Microbit 
 ![](https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg)
-* Using leds to make a Mini tank game 
+* A Mini tank game using the LED display
 * ...adding tilt controls
 * ..adding sound effects
-* ..using bluetooth for two player play
-* Speech to text using the microphone
+* Remote control usint tilt controls and bluetooth
+* Remote control using speech to text using the microphone
 * Text to Speech using the speaker
 * A Simple Chatbot
-* Snake
+* TODO: Snake
 * TODO: Other sensors
 
 ### Phase 4: Various projects with an actual robot called Vector
