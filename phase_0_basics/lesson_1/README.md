@@ -2,9 +2,6 @@
 ## Lesson 1: Write and Say Hello World
 ---
 ### Theoretical Coding Principals (`Python-related Syntax`)
-#### Practising Prior Knowledge:
-* N/A
-#### Learning New Knowledge:
 * using shortcut keys on the keyboard
 * writing their first python program
 * execute their program in terminal
