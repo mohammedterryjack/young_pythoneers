@@ -69,14 +69,18 @@
 ---
 
 ### Phase 4: Various projects with an actual robot called Vector
+* Introduction to ["Vector"](https://developer.anki.com/)
+* [Python's SDK](https://developer.anki.com/vector/docs/index.html) to "rewire" Vector's brains
+* Moving Vector
 ![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
+* Using Vector's Display
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg)
 ![](https://www.kinvert.com/wp-content/uploads/2018/10/anki-vector-sdk-example-text-on-face-screen-PIL-ImageDraw.jpg)
 ![](https://www.personalrobots.biz/wp-content/uploads/2019/10/anki-vector-sdk-python-doom-ips-display-color.jpeg)
+* Using Vector's Camera
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/tech-inside-anki-vector-hd-camera-1024x576.jpg)
 ![](https://www.hexnub.com/wp-content/uploads/2018/12/61sTgRcshVL._SL1000_-300x300.jpg)
+* Using Vector's IR laser and other sensors
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg)
 ![](https://preview.redd.it/24o1lhdacj721.png?width=3840&format=png&auto=webp&s=e052a8339d5c23647b7404ec068a3aeb3dc387ae)
-* Introduction to ["Vector"](https://developer.anki.com/)
-* [Python's SDK](https://developer.anki.com/vector/docs/index.html) to "rewire" Vector's brains
-* TODO:
+* TODO: Other projects
