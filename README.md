@@ -4,6 +4,9 @@
 <img src="young_pythoneers.jpg" width="500">
 
 ---
+##### Admission subject to an initial screening interview
+---
+
 ## Contact
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
 
@@ -12,8 +15,6 @@
 `(Professional AI Developer | PhD at University of York)`
 
 [email](mohammedterryjack@gmail.com) | [blog](https://medium.com/@b.terryjack)
-
-##### Admission subject to an initial screening interview
 
 ---
 ## Requirements 
