@@ -1,8 +1,7 @@
-<img src="young_pythoneers.jpg" width="500">
-
 # Young Pythoneers
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
+<img src="young_pythoneers.jpg" width="500">
 
 ---
 ## Contact
