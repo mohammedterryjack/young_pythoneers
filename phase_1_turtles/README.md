@@ -13,7 +13,7 @@
 --- 
 
 ## Lessons
-* [Lesson 1: Turtle Art](phase_1_turtles/lesson_1/README.md)
+* [Lesson 1: Turtle Art](lesson_1/README.md)
 * Lesson 2: Adding Keyboard controls to the Turtle
 * Lesson 3: Adding a shootable cannon to the Turtle
 * Lesson 4: Adding a second turtle and destructability
