@@ -1,4 +1,4 @@
-<img src="https://edsurge.imgix.net/uploads/post/image/13472/Shutterstock_Enmaler-1592324184.png?auto=compress%2Cformat&w=1400&h=567&fit=crop" width="500">
+<img src="young_pythoneers.jpg" width="500">
 
 # Young Pythoneers
 ### A Pythonic Project-based Curriculum
@@ -78,8 +78,6 @@
 ### Phase 4: Various projects with an actual robot called Vector
 * Introduction to ["Vector"](https://developer.anki.com/)
 * [Python's SDK](https://developer.anki.com/vector/docs/index.html) to "rewire" Vector's brains
-<img src="https://ksr-ugc.imgix.net/assets/028/105/054/c5bf73bf362cba774283b9db214a641e_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581785596&auto=format&frame=1&q=92&s=42fe193d731e80d28085f363b0d49726" width="300">
-
 * Using Vector's Legs to move and Arms to move other things
 <img src="https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720" width="300">
 
