@@ -71,6 +71,8 @@
 ### Phase 4: Various projects with an actual robot called Vector
 ![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg)
+![](https://www.kinvert.com/wp-content/uploads/2018/10/anki-vector-sdk-example-text-on-face-screen-PIL-ImageDraw.jpg)
+![](https://www.personalrobots.biz/wp-content/uploads/2019/10/anki-vector-sdk-python-doom-ips-display-color.jpeg)
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/tech-inside-anki-vector-hd-camera-1024x576.jpg)
 ![](https://www.hexnub.com/wp-content/uploads/2018/12/61sTgRcshVL._SL1000_-300x300.jpg)
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/inside-vector-infrared-laser-scanner-distance-sensor.jpg)
