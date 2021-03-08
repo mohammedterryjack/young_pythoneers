@@ -6,7 +6,7 @@
 
 ---
 ## Contact
-<img src="https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg" width="100">
+<img src="https://i.pinimg.com/236x/60/14/43/601443f3d02c0669f5d3560bb8047878--nabi-muhammad-prophet-muhammad.jpg" width="150">
 
 
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
@@ -19,13 +19,13 @@
 ---
 ## Requirements 
 ##### (with Strongly Recommended versions)
+### Software
+* [Python 3](https://www.python.org/download/releases/3.0/)
+* [Visual Studio Code](https://code.visualstudio.com/) (or any other IDE)
 ### Hardware
 * A Computer or Laptop (with access to the internet)
 * [BBC Microbit (version 2.0)](https://www.amazon.co.uk/BBC-micro-Pocket-Sized-Programmable-Computer/dp/B08TR1QMR1/ref=sr_1_4?dchild=1&keywords=microbit+v2&qid=1615166120&sr=8-4)
 * [Anki's Robot "Vector"](https://www.amazon.co.uk/Vector-Robot-Anki-Controlled-Built/dp/B078T42JCM/ref=sr_1_1?dchild=1&keywords=anki+vector&qid=1615166151&sr=8-1)
-### Software
-* [Python 3](https://www.python.org/download/releases/3.0/)
-* [Visual Studio Code](https://code.visualstudio.com/) (or any other IDE)
 --- 
 ## Curriculum
 * Phase 1: Virtual Robotics with [Turtle](https://docs.python.org/3/library/turtle.html)
