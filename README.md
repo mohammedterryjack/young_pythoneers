@@ -1,7 +1,6 @@
 # Young Pythoneers
 ### A Pythonic Project-based Curriculum
 #### to develop Creative, Problem-Solving skills in Youngsters
-![](https://ksr-ugc.imgix.net/assets/028/105/054/c5bf73bf362cba774283b9db214a641e_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581785596&auto=format&frame=1&q=92&s=42fe193d731e80d28085f363b0d49726)
 ---
 ## Contact
 [Mohammed Terry-Jack](https://www.linkedin.com/in/dery-terry/)
@@ -71,7 +70,8 @@
 ### Phase 4: Various projects with an actual robot called Vector
 * Introduction to ["Vector"](https://developer.anki.com/)
 * [Python's SDK](https://developer.anki.com/vector/docs/index.html) to "rewire" Vector's brains
-* Moving Vector
+![](https://ksr-ugc.imgix.net/assets/028/105/054/c5bf73bf362cba774283b9db214a641e_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581785596&auto=format&frame=1&q=92&s=42fe193d731e80d28085f363b0d49726)
+* Using Vector's Legs to move and Arms to move other things
 ![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
 * Using Vector's Display
 ![](https://www.kinvert.com/wp-content/uploads/2018/08/ips-display-inside-anki-vector-face-rgb.jpg)
