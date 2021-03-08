@@ -29,6 +29,8 @@
 * Phase 3: Various projects with [Microbit](https://microbit-micropython.readthedocs.io/en/v1.0.1/)
 * Phase 4: Various projects with an actual robot called [Vector](https://www.digitaldreamlabs.com/collections/vector-products)
 
+---
+
 ### Phase 1: Virtual Robotics with Turtle
 ![](turtles_screenshot.png)
 * Turtle Art
@@ -38,6 +40,9 @@
 * Adding Indestructable, uncrossable Walls
 * x2 Player Tanks Game
 * (bonus) Adding Autopilot & Randomised Maps
+
+---
+
 ### Phase 2: Building a pokemon-style game in Pygame
 ![](https://www.brian-gordon.name/portfolio/images/pokemon4-full.png)
 * Sprites
@@ -46,6 +51,8 @@
 * Scenery
 * Interacting with scenery and characters
 * (bonus) AI characters and talking behaviours
+
+---
 
 ### Phase 3: Various projects with Microbit 
 ![](https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg)
@@ -58,6 +65,8 @@
 * A Simple Chatbot
 * TODO: Snake
 * TODO: Other sensors
+
+---
 
 ### Phase 4: Various projects with an actual robot called Vector
 ![](https://img.vision-systems.com/files/base/ebm/vsd/image/2019/03/content_dam_vsd_en_articles_2018_08_anki_s_new_miniature_vector_offers_a_new_type_of_home_robot_leftcolumn_article_headerimage_file.png?auto=format&w=720)
