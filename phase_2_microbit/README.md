@@ -1,4 +1,4 @@
-# Phase 3: Various projects with [Microbit](https://microbit-micropython.readthedocs.io/en/v1.0.1/) 
+# Phase 2: Various projects with [Microbit](https://microbit-micropython.readthedocs.io/en/v1.0.1/) 
 
 <img src="https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg" width="300">
 

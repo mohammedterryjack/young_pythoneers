@@ -1,4 +1,4 @@
-# Phase 2: Building a pokemon-style game in [Pygame](https://www.pygame.org/docs/)
+# Phase 3: Building a pokemon-style game in [Pygame](https://www.pygame.org/docs/)
 
 <img src="https://www.brian-gordon.name/portfolio/images/pokemon4-full.png" width="300">
 
