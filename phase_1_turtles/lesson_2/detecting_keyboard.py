@@ -1,6 +1,4 @@
-from typing import List, Optional
 from pynput.keyboard import Key, Listener
-from time import sleep
 
 class PlayerInput(Exception): pass
 
