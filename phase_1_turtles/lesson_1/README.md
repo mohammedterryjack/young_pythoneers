@@ -13,7 +13,7 @@
 * target 5 (bonus): add stochasticity into patterns
 ---
 ### Example Screenshots
-![](turtle_world.png)
 ![](turtle_shapes.png)
 ![](turtle_art.png)
+![](turtle_tree.png)
 ![](turtle_stochastic.png)
