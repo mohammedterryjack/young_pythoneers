@@ -15,7 +15,7 @@
 ## Lessons
 * [Lesson 1: Turtle Art](lesson_1/README.md)
 * [Lesson 2: Customising the Shape and adding Keyboard controls to the Turtle](lesson_2/README.md)
-* [Lesson 3: Adding a shootable cannon and a second Turtle](lesson_3/README.md)
-* [Lesson 4: Turtle destructability and indestructable, uncrossable Walls](lesson_4/README.md)
+* [Lesson 3: Adding a shootable cannon](lesson_3/README.md)
+* [Lesson 4: A second Turtle Heat-seeking missile. Turtle destructability and indestructable, uncrossable Walls](lesson_4/README.md)
 * [Lesson 5: Loading in mazes and playing 2 player tank game](lesson_5/README.md)
 * [Lesson 6 (bonus): Adding AI to the Enemy Tank](lesson_6/README.md)
