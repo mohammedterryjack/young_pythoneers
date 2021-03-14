@@ -7,7 +7,7 @@ def say(message:str, operating_system:str) -> None:
         say_windows(message)
 
 def say_mac(message:str) -> None:
-    system(f"echo '{message}'") 
+    system(f"say '{message}'") 
 
 def say_windows(message:str) -> None:
     system(f'''PowerShell -Command "Add-Type –AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('{message}');"''')
