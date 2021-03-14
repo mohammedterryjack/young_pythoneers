@@ -2,6 +2,9 @@
 
 <img src="https://static.electronicsweekly.com/wp-content/uploads/2020/10/14095503/microbit-v2.jpg" width="300">
 
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/71iVCCZmlRL._SX522_.jpg" width="300">
+
 ---
 ## Requirements 
 ##### (with Strongly Recommended versions)
@@ -12,6 +15,7 @@
 ### Hardware
 * A Computer/Laptop (with access to the internet)
 * [BBC Microbit (version 2.0)](https://www.amazon.co.uk/BBC-micro-Pocket-Sized-Programmable-Computer/dp/B08TR1QMR1/ref=sr_1_4?dchild=1&keywords=microbit+v2&qid=1615166120&sr=8-4)
+* (optional) Freenove [Micro:rover](https://www.amazon.co.uk/Freenove-Micro-include-Tutorial-microbit/dp/B07QV5VS5W) kit
 --- 
 ## Lessons
 * Lesson 1: A Mini tank game using the LED display
@@ -20,6 +24,6 @@
 * Lesson 4: Remote control usint tilt controls and bluetooth
 * Lesson 5: Remote control using speech to text using the microphone
 * Lesson 6: Text to Speech using the speaker
-* Lesson 7 (bonus): A Simple Chatbot
+* Lesson 7 (bonus): Voice-enabled, remote-controlled, automated robot
 * TODO: Snake
 * TODO: Other sensors
