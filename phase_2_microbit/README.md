@@ -24,6 +24,13 @@
 * Lesson 4: Remote control usint tilt controls and bluetooth
 * Lesson 5: Remote control using speech to text using the microphone
 * Lesson 6: Text to Speech using the speaker
-* Lesson 7 (bonus): Voice-enabled, remote-controlled, automated robot
+* Lesson 7: Play songs. Make a song. Learn a song (whistle and play it back)
 * TODO: Snake
 * TODO: Other sensors
+* TODO: (bonus): 
+* Voice-enabled control
+* remote-controlled (tilt)
+* automated robot
+* Line-following
+* Ultra-sonic sensors to avoid and to build maps
+* [micro:rover api](https://github.com/Freenove/Freenove_Micro_Rover)
