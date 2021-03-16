@@ -1,6 +1,21 @@
-from turtle import Screen, Turtle
+from turtle import Screen, Turtle, ontimer
 from utils import set_custom_shape, tank_shape
 from random import randint 
+
+
+class Missile(Turtle):
+    def __init__(self,rocket_speed:int,firing_range:int,wind_factor:int) -> None:
+        super().__init__()
+        self.speed("fastest")
+        self.hideturtle()
+        self.SPEED = rocket_speed
+        self.RANGE = firing_range
+        self.WIND = wind_factor
+    
+    def fly(self) -> None:
+        self.forward(self.SPEED)
+        self.right(randint(-self.WIND,self.WIND))        
+        ontimer(self.fly,100) 
 
 
 class Tank(Turtle):
@@ -9,9 +24,7 @@ class Tank(Turtle):
         set_custom_shape(self,tank_shape)
         self.color("magenta","yellow")
         self.penup()
-        self.missile = Turtle()
-        self.missile.speed("fastest")
-        self.missile.hideturtle()
+        self.missile = Missile(3,300,1)
 
     def register_controls_to_world(
         self, world:Screen, 
@@ -33,9 +46,7 @@ class Tank(Turtle):
         self.missile.seth(self.heading())
         self.missile.showturtle()
         self.missile.pendown()
-        for _ in range(firing_range):
-            self.missile.forward(rocket_speed)
-            self.missile.right(randint(-wind_factor,wind_factor))
+        self.missile.fly()
         
 
 turtle_world = Screen()
