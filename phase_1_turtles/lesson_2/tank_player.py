@@ -2,7 +2,7 @@ from turtle import Screen, Turtle
 from utils import set_custom_shape, tank_shape
 
 turtle_world = Screen()
-turtle_world.bgcolor("pink")
+turtle_world.bgpic("marble.gif")
 
 tank = Turtle()
 set_custom_shape(tank,tank_shape)

@@ -1,6 +1,33 @@
-from turtle import Screen, Turtle, ontimer
-from utils import set_custom_shape, tank_shape
+from turtle import Screen, Turtle, ontimer, register_shape
 from random import randint 
+
+def set_custom_shape(pen:Turtle,turtle_movements:callable,shape_name:str="custom") -> None:
+    pen.speed("fastest")
+    pen.hideturtle()
+    pen.begin_poly() 
+    turtle_movements(pen)
+    pen.end_poly() 
+    register_shape(shape_name, pen.get_poly()) 
+    pen.reset()
+    pen.shape(shape_name)
+    pen.speed("slowest")
+
+def tank_shape(turtle:Turtle) -> None:
+    turtle.right(90)
+    turtle.backward(5)
+    turtle.forward(2)
+    turtle.right(90)
+    turtle.forward(3)
+    turtle.forward(2)
+    turtle.right(180)
+    for _ in range(2):
+        turtle.forward(10)
+        turtle.right(90)
+        turtle.forward(20)
+        turtle.right(90)
+    turtle.right(90)
+    turtle.forward(10)
+    turtle.circle(4)
 
 class Missile(Turtle):
     def __init__(self,rocket_speed:int,wind_factor:int=1) -> None:
@@ -16,7 +43,6 @@ class Missile(Turtle):
         self.forward(self.SPEED)
         self.right(randint(-self.WIND,self.WIND))        
         ontimer(self.fly,100) 
-
 
 class Tank(Turtle):
     def __init__(self) -> None:
@@ -42,13 +68,11 @@ class Tank(Turtle):
         world.onkeypress(lambda:self.left(speed),left) 
         world.onkeypress(lambda:self.right(speed),right) 
         world.onkey(lambda:self.shoot(speed),shoot)
-        
-
-turtle_world = Screen()
-turtle_world.bgpic("marble.gif")
-
-tank = Tank()
-tank.register_controls_to_world(turtle_world)
-
-turtle_world.listen()
-turtle_world.exitonclick()
+               
+    def drive_to_target_and_shoot(self, target:Turtle, speed:int=1) -> None:
+        if self.distance(target) <= 50: 
+            self.shoot(speed)
+        else:
+            self.setheading(self.towards(target))
+            self.forward(speed)
+            ontimer(lambda:self.drive_to_target_and_shoot(target),100)

@@ -4,7 +4,7 @@ from typing import Tuple
 from tank_missile_controls_ai import Tank
 
 turtle_world = Screen()
-turtle_world.bgcolor("pink")
+turtle_world.bgpic("marble.gif")
 
 tank = Tank()
 tank.register_controls_to_world(turtle_world)
