@@ -14,3 +14,4 @@
 --- 
 ## Lessons
 * [Lesson 1: Write and Say Hello World](lesson_1/README.md)
+* [Lesson 2: Make a graphical user interface](lesson_2/README.md)
