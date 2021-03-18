@@ -28,12 +28,12 @@ def load_maze_from_file(filename:str) -> Set[Tuple[int,int]]:
     with open(filename) as maze_file:
         return set(convert_maze_to_coordinates(maze_file.read()))
 
-def buffer_coordinates(coordinates:Set[Tuple[int,int]],buffer_radius:int) -> Set[Tuple[int,int]]:
-    buffer_coordinates = set()
-    for x,y in coordinates:
-        for buffer in range(buffer_radius):
-            buffer_coordinates |= {
-                (x+buffer,y+buffer),
-                (x-buffer,y-buffer)
-            }
-    return coordinates | buffer_coordinates
+# def buffer_coordinates(coordinates:Set[Tuple[int,int]],buffer_radius:int) -> Set[Tuple[int,int]]:
+#     buffer_coordinates = set()
+#     for x,y in coordinates:
+#         for buffer in range(buffer_radius):
+#             buffer_coordinates |= {
+#                 (x+buffer,y+buffer),
+#                 (x-buffer,y-buffer)
+#             }
+#     return coordinates | buffer_coordinates

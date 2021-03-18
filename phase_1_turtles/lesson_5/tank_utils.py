@@ -61,10 +61,10 @@ class Tank(Turtle):
         self, world:Screen, 
         up:str="Up",down:str="Down",
         left:str="Left",right:str="Right",
-        shoot:str="space",speed:int=3
-    ) -> None:
-        world.onkeypress(lambda:self.forward(speed),up) 
-        world.onkeypress(lambda:self.backward(speed),down) 
+        shoot:str="space",speed:int=3,
+    ) -> None:        
+        world.onkeypress(lambda: self.forward(speed),up) 
+        world.onkeypress(lambda: self.backward(speed),down) 
         world.onkeypress(lambda:self.left(speed),left) 
         world.onkeypress(lambda:self.right(speed),right) 
         world.onkey(lambda:self.shoot(speed),shoot)

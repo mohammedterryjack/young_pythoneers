@@ -17,5 +17,4 @@
 * [Lesson 2: Customising the Shape and adding Keyboard controls to the Turtle](lesson_2/README.md)
 * [Lesson 3: Adding a shootable cannon](lesson_3/README.md)
 * [Lesson 4: Enemy tanks with AI](lesson_4/README.md)
-* TODO: [Lesson 5: Loading in Walls and Detecting Collisions](lesson_5/README.md)
-* TODO: [Lesson 6 (bonus):](lesson_6/README.md)
+* [Lesson 5: Loading in Walls and Multiple Players](lesson_5/README.md)
