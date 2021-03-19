@@ -18,19 +18,18 @@
 * (optional) Freenove [Micro:rover](https://www.amazon.co.uk/Freenove-Micro-include-Tutorial-microbit/dp/B07QV5VS5W) kit
 --- 
 ## Lessons
-* Lesson 1: A Mini tank game using the LED display
-* Lesson 2: ...adding tilt controls
-* Lesson 3: ..adding sound effects
-* Lesson 4: Remote control usint tilt controls and bluetooth
-* Lesson 5: Remote control using speech to text using the microphone
-* Lesson 6: Text to Speech using the speaker
-* Lesson 7: Play songs. Make a song. Learn a song (whistle and play it back)
-* TODO: Snake
-* TODO: Other sensors
-* TODO: (bonus): 
-* Voice-enabled control
-* remote-controlled (tilt)
-* automated robot
-* Line-following
-* Ultra-sonic sensors to avoid and to build maps
-* [micro:rover api](https://github.com/Freenove/Freenove_Micro_Rover)
+OUTPUTS
+- LED display (hello world, images)
+- buzzer (music, speech)
+- motors (automated, see [micro:rover api](https://github.com/Freenove/Freenove_Micro_Rover))
+
+INPUTS
+- buttons
+- pins
+- accelerometer (tilt, gestures) 
+- compass
+- temperature
+- light (read_light_level)
+- microphone (voice-control, chatbot, https://microbit.org/get-started/user-guide/features-in-depth/)
+- radio (remote-control)
+- sonar (build maps, [micro:rover api](https://github.com/Freenove/Freenove_Micro_Rover))
